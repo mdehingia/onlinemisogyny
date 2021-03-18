@@ -1,2 +1,2 @@
-An analysis of over 16 million tweets from Bangladesh, India, Nepal, Pakistan, and Sri Lanka, to examine the amount of miosgynystic content on Twitter before and during the COVID-19 pandemic. We use a Support Vector Machine model to classify this large dataset of tweets.
+An analysis of over 19 million tweets from Bangladesh, India, Nepal, Pakistan, and Sri Lanka, to examine the amount of miosgynystic content on Twitter before and during the COVID-19 pandemic. We use a Support Vector Machine model to classify this large dataset of tweets.
 The csv file includes data on the number of misogynystic tweets, and total tweets, per day, for each country. This can be used to reproduce the figures in the analysis.
